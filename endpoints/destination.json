@@ -2,15 +2,21 @@
   "destination": [
     {
       "id": 1,
-      "city": "Cracov"
+      "value": "cracov",
+      "description": "Cracov",
+      "code": "krk"
     },
     {
       "id": 2,
-      "city": "Vienna"
+      "value": "paris",
+      "description": "Paris",
+      "code": "cdg"
     },
     {
         "id": 3,
-        "city": "Boston"
+        "value": "newyork",
+      "description": "New York",
+      "code": "jfk"
     }   
   ]
 }
