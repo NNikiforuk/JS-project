@@ -13,10 +13,44 @@
       "code": "cdg"
     },
     {
-        "id": 3,
-        "value": "newyork",
+      "id": 3,
+      "value": "newyork",
       "description": "New York",
       "code": "jfk"
     }   
+  ],
+  "origin": [
+    {
+      "id": 1,
+      "value": "cracov",
+      "description": "Cracov",
+      "code": "krk"
+    },
+    {
+      "id": 2,
+      "value": "paris",
+      "description": "Paris",
+      "code": "cdg"
+    },
+    {
+      "id": 3,
+      "value": "newyork",
+      "description": "New York",
+      "code": "jfk"   
+    },
+    {
+      "id": 4,
+      "value": "wroclaw",
+      "description": "Wrocław",
+      "code": "wro" 
+    },
+    {
+      "id": 5,
+      "value": "poznan",
+      "description": "Poznań",
+      "code": "poz"
+    }   
   ]
 }
+    
+
