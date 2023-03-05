@@ -1,1 +1,1 @@
-# JS-project
+# webpack5
